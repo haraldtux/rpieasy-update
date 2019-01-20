@@ -1,7 +1,7 @@
 #! /bin/sh
 #
 #
-#  ^H> HucDuino 19-01-2019
+#  ^H> HucDuino 20-01-2019
 #
 #  RPiEasy update script (ver. 1.0.8 Beta)
 #
