@@ -26,7 +26,7 @@ Update script for RPiEasy (Linux)
 If it went well then you have the latest RPiEasy with your own settings
 
 If you want to keep the 'rpieasy-update' directory with your settings to the next update than
-uncomments line 21 and comments line 49 in the 'rpieasy-update.sh' script
+uncomment line 21 and comment line 49 in the 'rpieasy-update.sh' script
 
 
 ## useful links: ##
