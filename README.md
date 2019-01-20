@@ -8,6 +8,7 @@ Update script for RPiEasy (Linux)
 
 ## Getting started: ##
 * copy `rpieasy-update.sh` in the same directory of the RPiEasy directory
+
   your directory
      |_rpieasy-update.sh
      |
