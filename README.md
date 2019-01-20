@@ -7,12 +7,7 @@ Update script for RPiEasy (Linux)
   enesbcs (Alexander Nagy) https://github.com/enesbcs/rpieasy
 
 ## Getting started: ##
-* copy `rpieasy-update.sh` in the same directory of the RPiEasy directory
-
-  your directory
-     |_rpieasy-update.sh
-     |
-     |_RPiEasy directory
+* copy `rpieasy-update.sh` in the same directory where the RPiEasy directory are (not in the RPiEasy directory !!)
 
 * `sudo chmod 777 rpieasy-update.sh`
 * `sudo ./rpieasy-update.sh`
@@ -36,4 +31,3 @@ uncomments line 21 and comments line 49 in the 'rpieasy-update.sh' script
 
 ## useful links: ##
 *  https://github.com/enesbcs/rpieasy
-
