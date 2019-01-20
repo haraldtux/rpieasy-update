@@ -8,10 +8,10 @@ Update script for RPiEasy (Linux)
 
 ## Getting started: ##
 * copy `rpieasy-update.sh` in the same directory of the RPiEasy directory
-  <your directory>
+  your directory
      |_rpieasy-update.sh
      |
-     |_<RPiEasy directory>
+     |_RPiEasy directory
 
 * `sudo chmod 777 rpieasy-update.sh`
 * `sudo ./rpieasy-update.sh`
