@@ -25,7 +25,7 @@ Update script for RPiEasy (Linux)
 
 If it went well then you have the latest RPiEasy with your own settings.
 
-If your 'Console log Level' active then you can read the output in the 'nohub.out' file in the 'RPiEasy' directory. 
+If your 'Console log Level' active then you can read the output in the 'nohup.out' file in the 'RPiEasy' directory. 
 
 If you want to keep the 'rpieasy-update' directory with your settings to the next update than
 uncomment line 21 and comment line 49 in the 'rpieasy-update.sh' script.
